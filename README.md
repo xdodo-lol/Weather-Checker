@@ -7,6 +7,12 @@ Weather app written in Python. Enter a city to see its current temperature, wind
 - Python 3.10 or later
 - An internet connection
 
+
+
+## Screenshot
+
+![Weather Checker screenshot](weather.png)
+
 ## Usage
 
 Run the program:
